@@ -29,9 +29,14 @@
 
 * https://www.topcoder.com[Top Coder]
 
-
 ## Dérivés de livres
 
 * http://algs4.cs.princeton.edu/code[Site Princeton]
 
 * https://cses.fi/book.html[Competitive Programmer's Handbook]
+
+## Kata
+
+* link:http://codingdojo.org/kata/[codingdojo.org site]
+* link:http://kata-log.rocks/index.html[kata-log.rocks site]
+* link:http://www.cyber-dojo.org[cyber-dojo.org site]
