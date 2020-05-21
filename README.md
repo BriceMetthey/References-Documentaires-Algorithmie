@@ -37,8 +37,6 @@
 
 ## Kata
 
-* [codingdojo.org site](http://codingdojo.org/kata/)
-
 * [kata-log.rocks site](http://kata-log.rocks/index.html)
 
 * [cyber-dojo.org site](http://www.cyber-dojo.org)
