@@ -2,9 +2,9 @@
 
 ## Cours (Vidéos)
 
-* https://www.youtube.com/user/MIT/[Cours MIT]
+* [https://www.youtube.com/user/MIT/](Cours MIT)
 
-* https://www.youtube.com/channel/UCH4s4ek5zqNvct5oy9_jd_g[Cours Stanford]
+* [https://www.youtube.com/channel/UCH4s4ek5zqNvct5oy9_jd_g][Cours Stanford]
 
 ## Notes
 
