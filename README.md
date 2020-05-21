@@ -2,41 +2,43 @@
 
 ## Cours (Vidéos)
 
-* [https://www.youtube.com/user/MIT/](Cours MIT)
+* [Cours du MIT sur YouTube](https://www.youtube.com/user/MIT/)
 
-* [https://www.youtube.com/channel/UCH4s4ek5zqNvct5oy9_jd_g][Cours Stanford]
+* [Cours de Stanford sur YouTube](https://www.youtube.com/channel/UCH4s4ek5zqNvct5oy9_jd_g)
 
 ## Notes
 
-* https://github.com/jwasham/google-interview-university[Coding Interview University]
+* [Coding Interview](https://github.com/jwasham/google-interview-university)
 
-* https://www.algorithm-archive.org/[Sites avec Archives]
+* [Sites avec Archives](https://www.algorithm-archive.org/)
 
-* https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a[Article listant un ensemble de site]
+* [Article listant un ensemble de site](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)
 
-* https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0[50+ Data Structure and Algorithms]
+* [50+ Data Structure and Algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 
 ## Sites web spécialisés
 
-* http://www.programcreek.com[Program Creek]
+* [Program Creek](http://www.programcreek.com)
 
-* http://www.geeksforgeeks.org[Geeks for geeks]
+* [Geeks for geeks](http://www.geeksforgeeks.org)
 
-* https://www.codingame.com/start[Codingame]
+* [Codingame](https://www.codingame.com/start)
 
-* http://codeforces.com[Codeforces]
+* [Codeforces](http://codeforces.com)
 
-* https://www.topcoder.com[Top Coder]
+* [Top Coder](https://www.topcoder.com)
 
 ## Dérivés de livres
 
-* http://algs4.cs.princeton.edu/code[Site Princeton]
+* [Site Princeton](http://algs4.cs.princeton.edu/code)
 
-* https://cses.fi/book.html[Competitive Programmer's Handbook]
+* [Competitive Programmer's Handbook](https://cses.fi/book.html)
 
 ## Kata
 
-* link:http://codingdojo.org/kata/[codingdojo.org site]
-* link:http://kata-log.rocks/index.html[kata-log.rocks site]
-* link:http://www.cyber-dojo.org[cyber-dojo.org site]
+* [codingdojo.org site](http://codingdojo.org/kata/)
+
+* [kata-log.rocks site](http://kata-log.rocks/index.html)
+
+* [cyber-dojo.org site](http://www.cyber-dojo.org)
