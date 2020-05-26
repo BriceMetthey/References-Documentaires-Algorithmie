@@ -16,7 +16,7 @@
 
 * [50+ Data Structure and Algorithms](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
-* [Les coucours de code Google](https://codingcompetitions.withgoogle.com/)
+* [Les concours de code Google](https://codingcompetitions.withgoogle.com/)
 
 
 ## Sites web spécialisés
